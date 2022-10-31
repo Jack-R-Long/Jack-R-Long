@@ -1,4 +1,13 @@
-### Hi there 👋
+## Hi 👋, I am Jack! 
+
+Currently working on
+- Solana NFT Project [Pantha](https://hellopantha.com)  
+
+## &#x1f4c8; GitHub Stats
+
+[![Jack's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jack-R-Long&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jack-R-Long&show_icons=true&theme=radical&langs_count=3&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!--
 **Jack-R-Long/Jack-R-Long** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
