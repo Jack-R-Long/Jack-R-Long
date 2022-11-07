@@ -1,7 +1,8 @@
 ## Hi 👋, I am Jack! 
 
 Currently working on
-- Solana NFT Project [Pantha](https://hellopantha.com)  
+- [Pantha](https://hellopantha.com), a Solana NFT project.  We have generated 3,333 unique art pieces on the Solana Blockchain. 
+- [Three JS Journey](https://github.com/Jack-R-Long/3js_journey) 10 week course taught by Bruno Simmons.
 
 ## &#x1f4c8; GitHub Stats
 
