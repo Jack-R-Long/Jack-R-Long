@@ -1,7 +1,7 @@
 ## Hi 👋, I am Jack! 
 
 Currently working on
-- [Pantha](https://hellopantha.com), a Solana NFT project.  We have generated 3,333 unique art pieces on the Solana Blockchain. 
+- [Ajax Email Writer](https://ajaxemail.xyz), GPT-3 powered email writting assitant. 
 - [Three JS Journey](https://github.com/Jack-R-Long/3js_journey) 10 week course taught by Bruno Simmons.
 
 ## &#x1f4c8; GitHub Stats
