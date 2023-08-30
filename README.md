@@ -1,8 +1,8 @@
 ## Hi 👋, I am Jack! 
 
 Currently working on
+- [ScrumDinger](https://developer.apple.com/tutorials/app-dev-training/getting-started-with-scrumdinger) SwiftUI app-building tutorial.
 - [Ajax Email Writer](https://ajaxemail.xyz), GPT-3 powered email writting assitant. 
-- [Three JS Journey](https://github.com/Jack-R-Long/3js_journey) 10 week course taught by Bruno Simmons.
 
 ## &#x1f4c8; GitHub Stats
 
