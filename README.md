@@ -1,8 +1,8 @@
 ## Hi 👋, I am Jack! 
 
 Currently working on
-- [ScrumDinger](https://developer.apple.com/tutorials/app-dev-training/getting-started-with-scrumdinger) SwiftUI app-building tutorial.
-- [Ajax Email Writer](https://ajaxemail.xyz), GPT-3 powered email writting assitant. 
+- [AnyNote](https://developer.apple.com/tutorials/app-dev-training/getting-started-with-scrumdinger) - voice to text note creator powered by GPT-4
+- [Ajax Email Writer](https://ajaxemail.xyz) - email writting assitant
 
 ## &#x1f4c8; GitHub Stats
 
