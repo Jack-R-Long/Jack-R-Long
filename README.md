@@ -1,9 +1,8 @@
 ## Hi 👋, I am Jack! 
 
 Currently working on
-- [AnyNote](https://developer.apple.com/tutorials/app-dev-training/getting-started-with-scrumdinger) - voice to text note creator powered by GPT-4
-- [Ajax Email Writer](https://ajaxemail.xyz) - email writting assitant
-
+- [AnyNote](https://developer.apple.com/tutorials/app-dev-training/getting-started-with-scrumdinger)
+- [Ajax Email Writer](https://ajaxemail.xyz)
 
 <!--
 **Jack-R-Long/Jack-R-Long** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
