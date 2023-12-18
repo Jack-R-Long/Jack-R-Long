@@ -1,8 +1,8 @@
 ## Hi 👋, I am Jack! 
 
 Currently working on
-- [AnyNote](https://developer.apple.com/tutorials/app-dev-training/getting-started-with-scrumdinger)
-- [Ajax Email Writer](https://ajaxemail.xyz)
+- [Remake My Logo](https://remakemylogo.com)
+- [AnyNote](https://github.com/Jack-R-Long/AnyNote)
 
 <!--
 **Jack-R-Long/Jack-R-Long** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
