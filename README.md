@@ -1,8 +1,6 @@
 ## Hi 👋, I am Jack! 
 
-Currently working on
-- [Remake My Logo](https://remakemylogo.com)
-- [AnyNote](https://github.com/Jack-R-Long/AnyNote)
+Currently focusing on my main gig! 
 
 <!--
 **Jack-R-Long/Jack-R-Long** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
